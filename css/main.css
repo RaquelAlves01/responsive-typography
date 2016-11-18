@@ -25,6 +25,7 @@ body {
 
 article {
   max-width: 43em;
+  margin: 1em;
 }
 
 article h1 {
