@@ -56,6 +56,10 @@ blockquote {
   font-size: 1.125rem;
 }
 
+blockquote {
+  margin: 0;
+}
+
 .quote {
   color: #999;
 }
