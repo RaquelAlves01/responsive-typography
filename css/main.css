@@ -37,13 +37,13 @@ article header {
   border-bottom: 1px solid #999;
 }
 
+article p {
+  margin-bottom: 1.5em;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
-}
-
-article p {
-  margin-bottom: 1.5em;
 }
 
 article > p:last-child {
@@ -54,9 +54,6 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
-}
-
-blockquote {
   margin: 0;
 }
 
