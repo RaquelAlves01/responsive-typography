@@ -42,6 +42,10 @@ article p {
   margin-bottom: 1.5em;
 }
 
+blockquote > p {
+  margin-bottom: 0;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
