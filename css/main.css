@@ -61,6 +61,12 @@ blockquote {
   color: #555;
   font-size: 1.125rem;
   margin: 0;
+  padding-bottom: 0;
+}
+
+article ol {
+  margin-left: 0;
+  margin-bottom: 1em;
 }
 
 .quote {
@@ -71,7 +77,6 @@ blockquote {
 
   html {
     font-size: 110%;
-    text-align: center;
     line-height: 1.4;
   }
 
