@@ -23,8 +23,10 @@ body {
 }
 
 article {
+  padding: 0 1em;
+  margin: auto;
   max-width: 43em;
-  margin: 1em;
+  width: 100%;
 }
 
 article h1 {
